@@ -1,0 +1,14 @@
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.AssemblyInfoInputs.cache
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.AssemblyInfo.cs
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.csproj.CoreCompileInputs.cache
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/bin/Debug/net9.0/lesson6
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/bin/Debug/net9.0/lesson6.deps.json
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/bin/Debug/net9.0/lesson6.runtimeconfig.json
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/bin/Debug/net9.0/lesson6.dll
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/bin/Debug/net9.0/lesson6.pdb
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.dll
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/refint/lesson6.dll
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.pdb
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/lesson6.genruntimeconfig.cache
+/Users/tigrannazarian/Desktop/csharplessons/lesson6/obj/Debug/net9.0/ref/lesson6.dll
