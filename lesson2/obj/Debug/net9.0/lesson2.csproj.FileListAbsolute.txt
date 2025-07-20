@@ -12,3 +12,4 @@
 /Users/tigrannazarian/Desktop/csharplessons/lesson2/obj/Debug/net9.0/lesson2.pdb
 /Users/tigrannazarian/Desktop/csharplessons/lesson2/obj/Debug/net9.0/lesson2.genruntimeconfig.cache
 /Users/tigrannazarian/Desktop/csharplessons/lesson2/obj/Debug/net9.0/ref/lesson2.dll
+/Users/tigrannazarian/Desktop/csharplessons/lesson2/obj/Debug/net9.0/lesson2.sourcelink.json

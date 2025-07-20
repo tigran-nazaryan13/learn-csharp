@@ -57,3 +57,10 @@
 // }
 
 // See https://aka.ms/new-console-template for more information
+
+int readline = Console.ReadLine();
+int readint = Convert.ToInt32(readline);
+Console.WriteLine("Square Root:");
+Console.WriteLine(readline*readline);
+Console.WriteLine("Cube Root:");
+Console.WriteLine(readline*readline*readline);
